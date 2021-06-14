@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beholdenkey" alt="beholdenkey" /></a> </p>
 
-- ⚡ Fun fact **You should be using Linux**
+- ⚡ Fun fact: **You should be using Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
